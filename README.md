@@ -5,8 +5,7 @@
  
 - Vamos a añadir una foto entre el texto
 
-  ![Descripción de la imagen](images/HD-wallpaper-earth-earth-world.jpg)
-
+  ![Descripción de la imagen](images/earth_4-wallpaper-1920x1080.jpg)
 - Vamos a añadir un link
   - [alejandrobp90](https://github.com/alejandrobp90/Hola-Mundo)
  
